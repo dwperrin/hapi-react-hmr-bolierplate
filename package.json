@@ -1,0 +1,19 @@
+{
+  "name": "hapi-react-resumable-upload",
+  "version": "0.0.1",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwperrin/hapi-react-resumable-upload.git"
+  },
+  "author": "D.W. PERRIN",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dwperrin/hapi-react-resumable-upload/issues"
+  },
+  "homepage": "https://github.com/dwperrin/hapi-react-resumable-upload#readme"
+}
